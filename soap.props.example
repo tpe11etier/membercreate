@@ -1,0 +1,8 @@
+[Auth Header]
+url = https://www.abc.com/wsdl.wsdl
+Domain = DOMAIN
+UserId = username
+UserPassword = password
+OemId = oemuser
+OemPassword = oempass
+
